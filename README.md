@@ -15,3 +15,14 @@ http://localhost:8000/
 http://localhost:8000/docs
 ```
 
+## 03 Python FastAPI Tutorial: How to Connect FastAPI to Database
+
+[https://www.youtube.com/watch?v=34jQRPssM5Q&list=PLK8U0kF0E_D6l19LhOGWhVZ3sQ6ujJKq_&index=3]
+
+```
+$ sudo apt install sqlite3
+$ pip install sqlalchemy
+
+$ pip freeze > requirements.txt
+```
+
